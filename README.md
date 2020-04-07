@@ -16,3 +16,9 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 9  bytes 524 (524.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        
+Catchphrase
+Guru uniform granite. Pizza charm hostel
+8b-b2-57-32-e4-7d-29-dc
+
+192.168.0.109
