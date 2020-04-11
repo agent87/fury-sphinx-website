@@ -1,5 +1,4 @@
 # These are dependencies of various sphinx extensions for documentation.
-sphinx>=2.1
 ipython
 matplotlib
 sphinx-copybutton

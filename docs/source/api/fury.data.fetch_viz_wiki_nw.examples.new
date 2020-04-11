@@ -1,0 +1,22 @@
+
+
+Examples using ``fury.data.fetch_viz_wiki_nw``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="The goal of this app is to show an overview of the journals network structure as a complex netw...">
+
+.. only:: html
+
+ .. figure:: /auto_examples/images/thumb/sphx_glr_viz_network_thumb.png
+
+     :ref:`sphx_glr_auto_examples_viz_network.py`
+
+.. raw:: html
+
+    </div>
+
+.. only:: not html
+
+ * :ref:`sphx_glr_auto_examples_viz_network.py`
